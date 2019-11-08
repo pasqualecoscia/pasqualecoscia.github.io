@@ -1,0 +1,7 @@
+@InProceedings{LisottoSSAT,
+author = {Lisotto, Matteo and Coscia, Pasquale and Ballan, Lamberto},
+title = {Social and Scene-Aware Trajectory Prediction in Crowded Spaces},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
+month = {Oct},
+year = {2019}
+}

@@ -1,0 +1,12 @@
+@INPROCEEDINGS{CosciaUMGT,
+author={P. {Coscia} and F. A. {N. Palmieri} and P. {Braca} and L. M. {Millefiori} and P. {Willett}},
+booktitle={2018 21st International Conference on Information Fusion (FUSION)},
+title={Unsupervised Maritime Traffic Graph Learning with Mean-Reverting Stochastic Processes},
+year={2018},
+volume={},
+number={},
+pages={1822-1828},
+keywords={graph theory;motion control;navigation;ships;stochastic processes;unsupervised learning;velocity control;unsupervised maritime traffic graph learning;mean-reverting stochastic processes;navigational legs;constant cruise velocity;Ornstein-Uhlenbeck process;navigational way-points;graph representativeness;ship velocity;graph construction criteria;automatic identification system;Marine vehicles;Artificial intelligence;Navigation;Stochastic processes;Anomaly detection;Clustering algorithms;Legged locomotion;Ornstein-Uhlenbeck process;change detection;maritime traffic graph;graph learning;clustering;DBSCAN;real-world data;AIS;maritime situational awareness},
+doi={10.23919/ICIF.2018.8455392},
+ISSN={},
+month={July},}

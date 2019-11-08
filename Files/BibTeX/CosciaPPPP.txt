@@ -1,0 +1,12 @@
+@INPROCEEDINGS{CosciaPPPP,
+author={P. {Coscia} and F. {Castaldo} and F. A. N. {Palmieri} and L. {Ballan} and A. {Alahi} and S. {Savarese}},
+booktitle={2016 19th International Conference on Information Fusion (FUSION)},
+title={Point-based path prediction from polar histograms},
+year={2016},
+volume={},
+number={},
+pages={1961-1967},
+keywords={image motion analysis;image segmentation;prediction theory;stochastic processes;point-based path prediction;complex target behavior modeling;stochastic model;object dynamics;semantic knowledge;point-wise polar histograms;target motion forecast;ray-launching procedure;semantic scene segmentation;statistics;constant velocity dynamics;target trajectories;object behavior forecasting;structured scenes;Semantics;Histograms;Trajectory;Predictive models;Robots;Visualization},
+doi={},
+ISSN={},
+month={July},}

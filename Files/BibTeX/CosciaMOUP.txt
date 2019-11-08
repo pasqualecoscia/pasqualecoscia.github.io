@@ -1,0 +1,12 @@
+@ARTICLE{CosciaMOUP,
+author={P. {Coscia} and P. {Braca} and L. M. {Millefiori} and F. A. N. {Palmieri} and P. {Willett}},
+journal={IEEE Transactions on Aerospace and Electronic Systems},
+title={Multiple Ornstein–Uhlenbeck Processes for Maritime Traffic Graph Representation},
+year={2018},
+volume={54},
+number={5},
+pages={2158-2170},
+keywords={collision avoidance;graph theory;marine engineering;pattern clustering;ships;unsupervised learning;multiple Ornstein-Uhlenbeck processes;maritime traffic graph representation;unsupervised procedure;maritime traffic patterns;sea-lanes;vessel motion dynamics;long-run mean parameters;change detection procedure;spatial points representative;density-based clustering algorithm;automatic identification system data;AIS data;maneuvering regions;Page's test;trajectory dataset;Iberian Coast;English Channel;JDL system;maritime traffic routes;Marine vehicles;Artificial intelligence;Data models;Trajectory;Electronic mail;Mathematical model;Stochastic processes;DBSCAN;Graph-based Maritime Traffic Representation;Maritime Surveillance Awareness (MSA);Pages Test OU Process},
+doi={10.1109/TAES.2018.2808098},
+ISSN={},
+month={Oct},}

@@ -1,0 +1,13 @@
+@article{CosciaLTPP,
+title = "Long-term path prediction in urban scenarios using circular distributions",
+journal = "Image and Vision Computing",
+volume = "69",
+pages = "81 - 91",
+year = "2018",
+issn = "0262-8856",
+doi = "https://doi.org/10.1016/j.imavis.2017.11.006",
+url = "http://www.sciencedirect.com/science/article/pii/S0262885617301853",
+author = "Pasquale Coscia and Francesco Castaldo and Francesco A.N. Palmieri and Alexandre Alahi and Silvio Savarese and Lamberto Ballan",
+keywords = "Long-term path prediction, Circular distribution, Human-scene interaction, Stochastic model",
+abstract = "Human ability to foresee the near future plays a key role in everyone's life to prevent potentially dangerous situations. To be able to make predictions is crucial when people have to interact with the surrounding environment. Modeling such capability can lead to the design of automated warning systems and provide moving robots with an intelligent way of interaction with changing situation. In this work we focus on a typical urban human-scene where we aim at predicting an agent's behavior using a stochastic model. In this approach, we fuse the various factors that would contribute to a human motion in different contexts. Our method uses previously observed trajectories to build point-wise circular distributions that after combination, provide a statistical smooth prediction towards the most likely areas. More specifically, a ray-launching procedure, based on a semantic segmentation, gives a coarse scene representation for collision avoidance; a nearly-constant velocity dynamic model smooths the acceleration progression and knowledge of the agent's destination may further steer the path prediction. Experimental results in structured scenes, validate the effectiveness of the method in predicting paths in comparison to actual trajectories."
+}
